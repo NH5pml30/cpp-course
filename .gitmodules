@@ -1,0 +1,30 @@
+[submodule "variant_task"]
+	path = variant_task
+	url = https://github.com/NH5pml30/variant_task
+[submodule "avl_bimap"]
+	path = avl_bimap
+	url = https://github.com/NH5pml30/avl_bimap
+[submodule "mandelbrot_viewer"]
+	path = mandelbrot_viewer
+	url = https://github.com/NH5pml30/mandelbrot_viewer
+[submodule "optional_task"]
+	path = optional_task
+	url = https://github.com/NH5pml30/optional_task
+[submodule "function_task"]
+	path = function_task
+	url = https://github.com/NH5pml30/function_task
+[submodule "signal_task"]
+	path = signal_task
+	url = https://github.com/NH5pml30/signal_task
+[submodule "shared_ptr_task"]
+	path = shared_ptr_task
+	url = https://github.com/NH5pml30/shared_ptr_task
+[submodule "intrusive_list_task"]
+	path = intrusive_list_task
+	url = https://github.com/NH5pml30/intrusive_list_task
+[submodule "cplusplus"]
+	path = cplusplus
+	url = https://github.com/NH5pml30/cplusplus
+[submodule "first-term"]
+	path = first-term
+	url = https://github.com/NH5pml30/first-term
